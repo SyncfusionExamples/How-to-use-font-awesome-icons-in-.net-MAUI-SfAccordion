@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\MauiSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF56BA4-1DA3-45D8-95BE-01BB056A9DCE}|MauiSample\\MauiSample.csproj|d:\\visualstudio\\mauisample\\mauisample\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF56BA4-1DA3-45D8-95BE-01BB056A9DCE}|MauiSample\\MauiSample.csproj|solutionrelative:mauisample\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF56BA4-1DA3-45D8-95BE-01BB056A9DCE}|MauiSample\\MauiSample.csproj|d:\\visualstudio\\mauisample\\mauisample\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7AF56BA4-1DA3-45D8-95BE-01BB056A9DCE}|MauiSample\\MauiSample.csproj|solutionrelative:mauisample\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VisualStudio\\MauiSample\\MauiSample\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiSample\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF56BA4-1DA3-45D8-95BE-01BB056A9DCE}|MauiSample\\MauiSample.csproj|d:\\visualstudio\\mauisample\\mauisample\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF56BA4-1DA3-45D8-95BE-01BB056A9DCE}|MauiSample\\MauiSample.csproj|solutionrelative:mauisample\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF56BA4-1DA3-45D8-95BE-01BB056A9DCE}|MauiSample\\MauiSample.csproj|d:\\visualstudio\\mauisample\\mauisample\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF56BA4-1DA3-45D8-95BE-01BB056A9DCE}|MauiSample\\MauiSample.csproj|solutionrelative:mauisample\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF56BA4-1DA3-45D8-95BE-01BB056A9DCE}|MauiSample\\MauiSample.csproj|d:\\visualstudio\\mauisample\\mauisample\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7AF56BA4-1DA3-45D8-95BE-01BB056A9DCE}|MauiSample\\MauiSample.csproj|solutionrelative:mauisample\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "D:\\VisualStudio\\MauiSample\\MauiSample\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "MauiSample\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "D:\\VisualStudio\\MauiSample\\MauiSample\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "MauiSample\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAJAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T05:40:33.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\MauiSample\\MauiSample\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "MauiSample\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "D:\\VisualStudio\\MauiSample\\MauiSample\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "MauiSample\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:55:44.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\MauiSample\\MauiSample\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiSample\\MainPage.xaml.cs",
+              "ToolTip": "D:\\VisualStudio\\MauiSample\\MauiSample\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiSample\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:53:38.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\MauiSample\\MauiSample\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiSample\\MauiProgram.cs",
+              "ToolTip": "D:\\VisualStudio\\MauiSample\\MauiSample\\MauiProgram.cs",
+              "RelativeToolTip": "MauiSample\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:50:32.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\MauiSample\\MauiSample\\ViewModel.cs",
+              "RelativeDocumentMoniker": "MauiSample\\ViewModel.cs",
+              "ToolTip": "D:\\VisualStudio\\MauiSample\\MauiSample\\ViewModel.cs",
+              "RelativeToolTip": "MauiSample\\ViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:48:50.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\VisualStudio\\MauiSample\\MauiSample\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiSample\\MainPage.xaml",
+              "ToolTip": "D:\\VisualStudio\\MauiSample\\MauiSample\\MainPage.xaml",
+              "RelativeToolTip": "MauiSample\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-18T11:44:45.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
