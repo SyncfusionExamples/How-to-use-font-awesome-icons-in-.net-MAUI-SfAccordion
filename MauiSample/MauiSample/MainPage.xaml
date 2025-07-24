@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MauiSample"
+             xmlns:accordion="clr-namespace:Syncfusion.Maui.Accordion;assembly=Syncfusion.Maui.Expander"
+             x:Class="MauiSample.MainPage">
+    <ContentPage.BindingContext>
+        <local:ItemInfoRepository/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <x:String x:Key="FontAwesome">FASolid</x:String>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+
+    <accordion:SfAccordion x:Name="accordion" BindableLayout.ItemsSource="{Binding Info}" ExpandMode="SingleOrNone" HeaderIconPosition="Start">
+        <BindableLayout.ItemTemplate>
+            <DataTemplate>
+                <accordion:AccordionItem >
+                    <accordion:AccordionItem.Header>
+                        <Grid>
+                            <Label TextColor="#495F6E" Text="{Binding Name}" VerticalOptions="Center" HorizontalOptions="StartAndExpand" HeightRequest="50" VerticalTextAlignment="Center"/>
+                            <Button Grid.Column="1"
+        HeightRequest="50"
+        WidthRequest="50"
+        Command="{Binding Path=BindingContext.FavouriteCommand, Source={x:Reference accordion}}"
+        CommandParameter="{Binding .}"
+        HorizontalOptions="EndAndExpand"
+        VerticalOptions="CenterAndExpand"
+        BackgroundColor="Transparent">
+                                <Button.ImageSource>
+                                    <FontImageSource Glyph="{Binding FavouriteIcon}"
+                         FontFamily="{StaticResource FontAwesome}"
+                         Color="#ea2c62"
+                         Size="18" />
+                                </Button.ImageSource>
+                            </Button>
+
+                        </Grid>
+                    </accordion:AccordionItem.Header>
+                    <accordion:AccordionItem.Content>
+                        <Grid BackgroundColor="#e8e8e8" Padding="5,0,0,0">
+                            <Label Text="{Binding Description}" VerticalOptions="Center"/>
+                        </Grid>
+                    </accordion:AccordionItem.Content>
+                </accordion:AccordionItem>
+            </DataTemplate>
+        </BindableLayout.ItemTemplate>
+    </accordion:SfAccordion>
+
+
+</ContentPage>
